@@ -56,7 +56,7 @@ namespace Dynamic_Matching_Game
 
         private void setHardToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Rows = 7;
+            Rows = 6;
             Columns = 9;
             TimerInterval1 = 1100;
             BlinkTime = 1200;
